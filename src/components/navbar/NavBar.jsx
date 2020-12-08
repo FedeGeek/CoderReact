@@ -6,8 +6,6 @@ import Nav from 'react-bootstrap/Nav'
         function NavBar() {
     return (
         <>
-            <h1>Coco Chango</h1>
-            <p>Camisas hawaianas</p>
             <Container fluid>
                 <Row className="justify-content-md-center">
                     <Col>

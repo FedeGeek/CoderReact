@@ -3,7 +3,9 @@ import NavBar from './components/navbar/NavBar'
 function App() {
   return (
     <>
-    <NavBar/>
+      <h1>Coco Chango</h1>
+      <p>Camisas hawaianas</p>
+      <NavBar/>
     </>
   );
 }
